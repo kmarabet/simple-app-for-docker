@@ -1,0 +1,16 @@
+*.iml
+*.ipr
+*.ids
+*.iws
+.idea/
+
+out/
+
+.project
+.metadata
+local.properties
+.classpath
+.settings/
+.loadpath
+
+
